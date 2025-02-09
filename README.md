@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=ffd883&text=smile%20:)&textBg=false&fontColor=ffe7b3&fontSize=40)
 ## Hi there 👋
 ### I'm Hyeonji.
 
