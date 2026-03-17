@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=ffd883&text=smile%20:\)&textBg=false&fontColor=ffe7b3&fontSize=40)
+![header](<https://capsule-render.vercel.app/api?type=soft&height=100&color=ffd883&text=smile%20:)&textBg=false&fontColor=ffe7b3&fontSize=40>)
+
 ## Hi there 👋
-### I'm Hyeonji.
+
+## I'm Hyeonji.
 
 <!--
 **hz00308/hz00308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
